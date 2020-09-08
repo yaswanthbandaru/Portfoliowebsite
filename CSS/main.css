@@ -1,0 +1,55 @@
+
+body{
+
+	background: #50495c;
+	color: #fff;
+	vertical-align: baseline;
+
+    
+}
+
+img {
+	float: right;
+	margin: inherit;
+	padding: inherit;
+    
+
+}
+p {
+	font-size: 16px;
+	display: inline-block;
+}
+
+
+h2 {
+
+	font-family: "arial";
+    float:none;
+	color: #1eddd199;
+	text-align:center;
+	
+}
+
+#Name{
+	color:#d38ab6;
+	font-size: 200%;
+	font-family: cursive;
+	float:none;
+	text-align: center;
+}
+
+
+i {
+
+	color: #E1BEE7;
+}
+
+div{
+	border: 6px solid #aaadbb;
+	height: auto;
+	margin: 20px;
+	padding: inherit;
+	width: auto;
+	background:steelblue;
+}
+
